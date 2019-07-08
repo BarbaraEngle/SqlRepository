@@ -1,0 +1,8 @@
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\bin\Release\netcoreapp2.2\SqlRepository.deps.json
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\bin\Release\netcoreapp2.2\SqlRepository.dll
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\bin\Release\netcoreapp2.2\SqlRepository.pdb
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\obj\Release\netcoreapp2.2\SqlRepository.csproj.CoreCompileInputs.cache
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\obj\Release\netcoreapp2.2\SqlRepository.AssemblyInfoInputs.cache
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\obj\Release\netcoreapp2.2\SqlRepository.AssemblyInfo.cs
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\obj\Release\netcoreapp2.2\SqlRepository.dll
+C:\Users\barbara.engle\source\repos\PLDS_Data\PLDS_Data\obj\Release\netcoreapp2.2\SqlRepository.pdb
